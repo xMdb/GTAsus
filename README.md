@@ -1,4 +1,4 @@
-# GTAsus
+# GTAsus - Disconnect Everyone From Your GTA Online Lobby
 A simple batch script that uses pssuspend64 to suspend your GTA V process, which disconnects you from all the users in the lobby. This makes all players 'leave' on your end, and you will have your own private public lobby!
 
 Due to the Sysinternals license agreement, I cannot provide pssuspend64. You must download it from https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend.
